@@ -1,0 +1,26 @@
+/* centering */
+body {
+    max-width: 50em;
+    margin: 0 auto; 
+}
+
+/* font family */
+body {
+    font-family: "Arial";
+}
+
+/* spacing */
+body {
+    line-height: 1.5;
+    padding: 4em 1em
+}
+
+/* softer shade of black */
+body {
+    color: #555;
+}
+
+/* darker shade for important words */
+h1 {
+    color: #333;
+}
