@@ -14,6 +14,10 @@ body {
     line-height: 1.5;
     padding: 4em 1em
 }
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+}
 
 /* softer shade of black */
 body {
@@ -21,6 +25,24 @@ body {
 }
 
 /* darker shade for important words */
-h1 {
+h1, h2, h2 a {
     color: #333;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+    width: auto;
+    list-style: outside none none;
+    padding-right: 1em;
+}
+
+ul a {
+    color: #ffae42;
+    text-decoration: none;
 }

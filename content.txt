@@ -1,0 +1,19 @@
+About Me Section 
+
+I'm a Computer Science sophomore at San Jose State University. 
+I'm expected to graduate December 2022. Anime enthusiast. 
+
+Projects Section 
+
+low-key (iOS App)
+(add description - maybe link to article & github repos)
+
+Experience Section 
+I work as a Peer Tutor for the College of Science Advising Center, 
+and I'm a public relations chair for SJSU's Society of Women Engineers chapter. 
+
+Links Section 
+email 
+linkedin
+github 
+
